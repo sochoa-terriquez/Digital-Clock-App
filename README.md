@@ -1,0 +1,1 @@
+This project uses Python to create a digital clock application with a graphical user interface. The program displays the current time in real-time and updates every second using a custom digital clock design.  Language used: Python Libraries used: tkinter, time
